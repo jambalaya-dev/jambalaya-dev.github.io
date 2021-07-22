@@ -1,8 +1,8 @@
 @font-face {
     font-family: "IBM Plex Sans";
     src:
-      url('/font/ibmplexsans-light.woff2') format('woff2'),
-      url('/font/ibmplexsans-light.woff') format('woff');
+      url('font/ibmplexsans-light.woff2') format('woff2'),
+      url('font/ibmplexsans-light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -11,8 +11,8 @@
 @font-face {
     font-family: 'IBM Plex Sans';
     src:
-      url('/font/ibmplexsans-bold.woff2') format('woff2'),
-      url('/font/ibmplexsans-bold.woff') format('woff');
+      url('font/ibmplexsans-bold.woff2') format('woff2'),
+      url('font/ibmplexsans-bold.woff') format('woff');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
