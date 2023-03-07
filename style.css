@@ -47,3 +47,11 @@ body {
   to {
   visibility: hidden;
   }
+}
+
+@media (prefers-reduced-motion) {
+  .blink {
+    animation: none;
+    visibility: visible
+  }
+}
