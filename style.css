@@ -44,6 +44,6 @@ body {
     }
   }
 @-webkit-keyframes blink-animation {
-to {
-    visibility: hidden;
-}
+  to {
+  visibility: hidden;
+  }
