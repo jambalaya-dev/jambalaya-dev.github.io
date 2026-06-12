@@ -39,6 +39,7 @@ html {
   scroll-behavior: smooth;
 }
 
+
 body {
   font-family: "IBM Plex Sans", system-ui, sans-serif;
   font-weight: 300;
@@ -78,6 +79,14 @@ nav {
   font-size: 1.15rem;
   letter-spacing: -0.02em;
   text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+
+.nav-logo {
+  height: 26px;
+  width: auto;
+  display: block;
 }
 
 /* ─── Buttons ─── */
@@ -420,6 +429,15 @@ footer {
 .footer-brand {
   color: var(--white);
   font-weight: 700;
+  display: flex;
+  align-items: center;
+}
+
+.footer-logo {
+  height: 20px;
+  width: auto;
+  display: block;
+  opacity: 0.75;
 }
 
 .footer-inner address {
